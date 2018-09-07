@@ -34,8 +34,6 @@ install:
   - composer install
   - cp app/config/parameters.yml.dist app/config/parameters.yml
 
-
-
 # After a build, send email notification with the build results
 notifications:
 email: reiners.joh@gmail.com
