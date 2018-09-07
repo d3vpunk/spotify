@@ -14,6 +14,10 @@ parameters:
     mailer_host: 127.0.0.1
     mailer_user: ~
     mailer_password: ~
+    
+    spotify_client_id: test
+    spotify_client_secret: test
+    spotify_redirect_uri: test
 
     # A secret key that's used to generate certain security-related tokens
     secret: ThisTokenIsNotSoSecretChangeIt
